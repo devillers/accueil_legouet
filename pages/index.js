@@ -22,7 +22,7 @@ export default function Home() {
 
                   <div className="relative grid gap-6 bg-top bg-cover sm:grid-cols-2 lg:grid-cols-4">
                     
-                  <NextLink href='https://accueil-legouet-1xj2k50wk-devillers.vercel.app'>
+                  <a href='https://accueil-legouet-1xj2k50wk-devillers.vercel.app'>
                     <div div className="p-6 space-y-4 overflow-hidden transition-shadow duration-200 bg-white bg-top bg-cover border border-gray-100 shadow-xl rounded-2xl group hover:shadow-2xl cursor-pointer">
                         <div className="flex items-center ">
                             <div className=" items-center  w-10 h-10 text-center bg-top bg-cover rounded-full bg-purple-500">
@@ -31,10 +31,10 @@ export default function Home() {
                         </div>
                        
                     </div>
-                  </NextLink>
+                  </a>
          
                       
-                  <NextLink href="/">
+                  <a href="/">
                     <div className="cursor-pointer p-6 space-y-4 overflow-hidden transition-shadow duration-200 bg-white bg-top bg-cover border border-gray-100 shadow-xl rounded-2xl group hover:shadow-2xl">
                         <div className="flex items-center ">
                             <div className=" items-center  w-10 h-10 text-center bg-top bg-cover rounded-full bg-blue-300">
@@ -43,7 +43,7 @@ export default function Home() {
                         </div>
                         <p className="text-sm leading-5 text-gray-500">If you love Marmite Press  </p>
                     </div>
-                  </NextLink>   
+                  </a>   
                     
                  
               
