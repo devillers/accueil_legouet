@@ -22,7 +22,7 @@ export default function Home() {
 
                   <div className="relative grid gap-6 bg-top bg-cover sm:grid-cols-2 lg:grid-cols-4">
                     
-                  <a href='https://accueil-legouet-1xj2k50wk-devillers.vercel.app'>
+                  <a href='https://accueil-menu.vercel.app/'>
                     <div div className="p-6 space-y-4 overflow-hidden transition-shadow duration-200 bg-white bg-top bg-cover border border-gray-100 shadow-xl rounded-2xl group hover:shadow-2xl cursor-pointer">
                         <div className="flex items-center ">
                             <div className=" items-center  w-10 h-10 text-center bg-top bg-cover rounded-full bg-purple-500">
