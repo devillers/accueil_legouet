@@ -29,7 +29,8 @@ export default function Home() {
                             </div>
                             <p className="font-bold text-gray-700 uppercase ml-5">FRANCAIS</p>
                         </div>
-                        <p className="text-sm leading-5 text-gray-500">If you love Marmite Press  </p>
+                  <p className="text-sm leading-5 text-gray-500">If you love Marmite Press  </p>
+                  <p>bllaldzldaldk</p>
                     </div>
                   </a>
          
