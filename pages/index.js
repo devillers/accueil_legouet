@@ -29,7 +29,7 @@ export default function Home() {
                             </div>
                             <p className="font-bold text-gray-700 uppercase ml-5">FRANCAIS</p>
                         </div>
-                  <p className="text-sm leading-5 text-gray-500">If you love Marmite Press  </p>
+                  <p className="text-sm leading-5 text-gray-500"></p>
                   
                     </div>
                   </a>
@@ -40,9 +40,9 @@ export default function Home() {
                         <div className="flex items-center ">
                             <div className=" items-center  w-10 h-10 text-center bg-top bg-cover rounded-full bg-blue-300">
                             </div>
-                            <p className="font-bold text-gray-700 uppercase ml-5">ANGLAIS</p>
+                            <p className="font-bold text-gray-700 uppercase ml-5">ENGLISH</p>
                         </div>
-                        <p className="text-sm leading-5 text-gray-500">If you love Marmite Press  </p>
+                        <p className="text-sm leading-5 text-gray-500"></p>
                     </div>
                   </a>   
                     
